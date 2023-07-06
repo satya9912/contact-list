@@ -17,14 +17,12 @@ class ListItem extends React.Component {
   };
 
   handleNameChange = (e) => {
-    // console.log(e.target.value);
     this.setState({
       editedName: e.target.value,
     });
   };
 
   handlePhoneChange = (e) => {
-    // console.log(e.target.value);
     this.setState({
       editedPhone: e.target.value,
     });

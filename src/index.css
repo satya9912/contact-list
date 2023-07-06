@@ -58,12 +58,11 @@ p {
   color: whitesmoke;
   margin-right: 5px;
   font-size: 1.3rem;
-  /* font-family: monospace; */
 }
 
 h1 {
   color: white;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 3rem;
   font-family: sans-serif;
   letter-spacing: 1px;
